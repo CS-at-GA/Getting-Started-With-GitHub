@@ -6,7 +6,7 @@
    2. [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
    3. [10-minute tutorial](https://commonmark.org/help/tutorial/) and [Reference](https://commonmark.org/help/)
    4. A classic [reference](https://daringfireball.net/projects/markdown/basics)
-3. Go to `https://github.com/<your user name>` and edit the `README.md` file that is there. Include _at least_ the following: 
+3. Go to `https://github.com/<your user name>` and edit the `README.md` file that is there. Make sure that you are using what you learned from the Markdown resources above. Include _at least_ the following: 
    - Previous coding experience, if any. 
    - Reason(s) for taking this class. 
    - Other interests (academic or otherwise). 
